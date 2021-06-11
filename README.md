@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working on StyleGan、DeepFake、Digital Human and so on.
+I’m currently working on StyleGan, DeepFake, DigitalHuman etc.
 
 <!--
 **ykk648/ykk648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
