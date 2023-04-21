@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I’m currently working on ImageGeneration, DeepFake, DigitalHuman etc.
+I’m currently working on StableDiffusion, ChatGPT, LLM etc.
+
+I have conducted in-depth research on ImageGenerate, DeepFake, DigitalHuman etc.
 
 <!--
 **ykk648/ykk648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
