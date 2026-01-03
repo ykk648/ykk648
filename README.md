@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I have conducted in-depth research on Diffusion, DeepFake, DigitalHuman, LLM etc.
+I have conducted in-depth research on DiT, VideoGen, DigitalHuman, Multimodal etc.
 
 <!--
+ref https://github.com/marketplace/actions/github-readme-stats-action
+
 **ykk648/ykk648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,6 +20,6 @@ Here are some ideas to get you started:
 -->
 
 ![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykk648&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- ![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
