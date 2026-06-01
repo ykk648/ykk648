@@ -20,7 +20,6 @@ I have conducted in-depth research on DiT, VideoGen, DigitalHuman, Multimodal et
 * 🎞️ [**AnimateDiff-I2V**](https://github.com/ykk648/AnimateDiff-I2V) — AnimateDiff 图生视频改造版，支持 IP-Adapter 与多 ControlNet。
 * 🍏 [**Torch2CoreML**](https://github.com/ykk648/Torch2CoreML) — PyTorch 模型转 CoreML 的转换工具。
 * 🛰️ [**TopFreeProxies**](https://github.com/ykk648/-TopFreeProxies) — 多源免费代理聚合工具，自动测速生成 Clash 配置。#### VibeCoding Projects
-
 * 🎬 [**Subtitle Remover**](https://github.com/ykk648/subtitle_remover) — 自动化的视频字幕提取与移除工具。
 * 🔍 [**Duix-Mobile-reverse**](https://github.com/ykk648/Duix-Mobile-reverse) — Duix 移动端应用的逆向分析与接口研究。
 
